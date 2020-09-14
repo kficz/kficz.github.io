@@ -9,7 +9,7 @@
         "location": "Southampton, England",
         "social": {
             "twitter_handle": "theswimpool",
-            "telegram_handle": "t.me/joinchat/LoL2ehvyv8uuecE083lPGw",
+            "telegram_handle": "https://t.me/joinchat/LoL2ehvyv8uuecE083lPGw",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -25,8 +25,8 @@
             "vat_id": ""
         },
         "about": {
-            "me": "...",
-            "server": "Cardano enthusiast and welder-fabricator :)",
+            "me": "Cardano enthusiast and welder-fabricator :)",
+            "server": "...",
             "company": "..."
         },
         "rss": ""
