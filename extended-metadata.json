@@ -9,7 +9,7 @@
         "location": "Southampton, England",
         "social": {
             "twitter_handle": "theswimpool",
-            "telegram_handle": "adaswim",
+            "telegram_handle": "t.me/joinchat/LoL2ehvyv8uuecE083lPGw",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -35,10 +35,9 @@
         "31af0509d4376a8a55b40e952aea7f009c13cadf0338c57512ff42e9"   
     ],
     "when-satured-then-recommend": [
-        "6f9ecffc4bc41068db87bd193e5842577df08a464cb7c001865c8b60",
-        "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef"
+        ""
     ],
     "telegram-admin-handle": [
-        ""
+        "adaswim"
     ]
 }
