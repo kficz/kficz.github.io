@@ -1,7 +1,8 @@
 {
-"name": "DIVE by SWIM",
-"description": "Welcome to DIVE, an overflow pool of The Swimming Pool [SWIM], enjoy splashing around!",
-"ticker": "DIVE",
-"homepage": "https://theswim.net",
-"extended": "https://kficz.github.io/extended-metadata2.json"
+  "name": "DIVE by SWIM",
+  "ticker": "DIVE",
+  "description": "Welcome to DIVE, an overflow pool of The Swimming Pool [SWIM], enjoy splashing around!",
+  "homepage": "https://theswim.net",
+  "nonce": "1605454445",
+  "extended": "https://kficz.github.io/extended-metadata2.json"
 }
